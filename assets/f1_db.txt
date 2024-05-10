@@ -1,0 +1,29 @@
+Here's the structure of your Firebase Firestore database as you described it:
+
+Teams Collection
+Teams:
+teamId: Document ID
+name: String
+story: String
+image_url: String
+Drivers Collection
+Drivers:
+driverId: Document ID
+name: String
+bio: String
+image_url: String
+teamId: String (reference to their team)
+News Collection
+News (assuming global news that can be tagged to teams or drivers):
+newsId: Document ID
+title: String
+content: String
+relatedTeams: Array of team IDs
+relatedDrivers: Array of driver IDs
+Users Collection
+Users:
+userId: Document ID
+email: String
+followedTeams: Array of team IDs
+followedDrivers: Array of driver IDs
+This structure supports a variety of functionalities including team and driver management, news related to teams and drivers, and user profiles with follow capabilities. If you need further details or modifications, let me know!
