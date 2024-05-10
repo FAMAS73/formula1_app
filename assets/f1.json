@@ -1,0 +1,343 @@
+{
+  "Teams": [
+    {
+      "name": "Red Bull Racing",
+      "base": "Milton Keynes, United Kingdom",
+      "team_principal": "Christian Horner",
+      "image_url": "https://media.formula1.com/content/dam/fom-website/teams/2024/red-bull-racing-logo.png.transform/2col/image.png",
+      "news" : {
+        "title" : "Red Bull Racing News",
+        "content" : "Red Bull Racing is a Formula One racing team, racing under an Austrian licence and based in the United Kingdom. The team raced under a British licence from 2005 to 2006 and has raced under an Austrian licence since 2007. It is one of two Formula One teams owned by beverage company Red Bull GmbH, the other being Scuderia AlphaTauri. The team has been managed by Christian Horner since its formation in 2005. The team has used Renault engines since 2007, and has a contract to do so until 2025. In November 2021, Red Bull Racing won their first Constructors' Championship, with Max Verstappen winning the Drivers' Championship.",
+        "timestamp" : "2022-03-01T00:00:00Z"
+      }
+    },
+    {
+      "name": "Ferrari",
+      "base": "Maranello, Italy",
+      "team_principal": "Fred Vasseur",
+      "image_url": "https://media.formula1.com/content/dam/fom-website/teams/2024/ferrari-logo.png.transform/2col/image.png",
+      "news" : {
+        "title" : "Ferrari News",
+        "content" : "Scuderia Ferrari is the racing team division of the Ferrari automobile marque. The team has competed in Formula One since the inaugural season in 1950, and it is the oldest and most successful team in the history of the sport. The team was founded by Enzo Ferrari, initially to",
+        "timestamp" : "2022-03-01T00:00:00Z"
+      }
+    },
+    {
+      "name": "Mercedes",
+      "base": "Brackley, United Kingdom",
+      "team_principal": "Toto Wolff",
+      "image_url": "https://media.formula1.com/content/dam/fom-website/teams/2024/mercedes-logo.png.transform/2col/image.png",
+      "news" : {
+        "title" : "Mercedes News",
+        "content" : "Mercedes-AMG Petronas Formula One Team is a British Formula One racing team and a wholly owned subsidiary of Mercedes-Benz AG. The team is based in Brackley, Northamptonshire, United Kingdom, using a German licence. Mercedes has competed in Formula One since 1954, and has been involved in the sport ever since. Mercedes has won the Formula One Constructors' Championship seven times, and has won the Formula One Drivers' Championship seven times.",
+        "timestamp" : "2022-03-01T00:00:00Z"
+      }
+    },
+    {
+      "name": "McLaren",
+      "base": "Woking, United Kingdom",
+      "team_principal": "Andrea Stella",
+      "image_url": "https://media.formula1.com/content/dam/fom-website/teams/2024/mclaren-logo.png.transform/2col/image.png",
+      "news" : {
+        "title" : "McLaren News",
+        "content" : "McLaren Racing Limited is a British motor racing team based at the McLaren Technology Centre, Woking, Surrey, England. McLaren is best known as a Formula One constructor, but also competes in the Indianapolis 500 and has won the Canadian-American Challenge Cup (Can-Am). The team is the second oldest active Formula One team after Ferrari, where they compete as McLaren F1 Team. They are the second most successful team in Formula One history, having won",
+        "timestamp" : "2022-03-01T00:00:00Z"
+      }
+    },
+    {
+      "name": "Alpine",
+      "base": "Enstone, United Kingdom",
+      "team_principal": "Otmar Szafnauer",
+      "image_url": "https://media.formula1.com/content/dam/fom-website/teams/2024/alpine-logo.png.transform/2col/image.png",
+      "news" : {
+        "title" : "Alpine News",
+        "content" : "Alpine F1 Team is a Formula One racing team based in Enstone, Oxfordshire, England. The team was formed in 2021 as Renault DP World F1 Team, when Renault rebranded its works team. The team was renamed Alpine F1 Team in 2021, following the rebranding of the Renault brand to Alpine. The team has been managed by Otmar Szafnauer since its formation in 2021. The team has used Renault engines since 2021, and has a contract to do so until 2025.",
+        "timestamp" : "2022-03-01T00:00:00Z"
+      }
+    },
+    {
+      "name": "Alfa Romeo",
+      "base": "Hinwil, Switzerland",
+      "team_principal": "Alessandro Alunni Bravi",
+      "image_url": "https://media.formula1.com/content/dam/fom-website/teams/2024/kick-sauber-logo.png.transform/2col/image.png",
+      "news" : {
+        "title" : "Alfa Romeo News",
+        "content" : "Alfa Romeo Racing ORLEN is a Formula One racing team based in Hinwil, Switzerland. The team was founded in 2019 as Alfa Romeo Racing, following the rebranding of the Sauber F1 Team. The team has been managed by Alessandro Alunni Bravi since its formation in 2019. The team has used Ferrari engines since 2019, and has a contract to do so until 2025.",
+        "timestamp" : "2022-03-01T00:00:00Z"
+      }
+    },
+    {
+      "name": "Aston Martin",
+      "base": "Silverstone, United Kingdom",
+      "team_principal": "Mike Krack",
+      "image_url": "https://media.formula1.com/content/dam/fom-website/teams/2024/aston-martin-logo.png.transform/2col/image.png",
+      "news" : {
+        "title" : "Aston Martin News",
+        "content" : "Aston Martin Cognizant Formula One Team is a British Formula One racing team and a wholly owned subsidiary of Aston Martin Lagonda. The team is based in Silverstone, Northamptonshire, United Kingdom, using a British licence. Aston Martin has competed in Formula One since 2021, and has been involved in the sport ever since. Aston Martin has used Mercedes engines since 2021, and has a contract to do so until 2025.",
+        "timestamp" : "2022-03-01T00:00:00Z"
+      }
+    },
+    {
+      "name": "Haas",
+      "base": "Kannapolis, United States",
+      "team_principal": "Guenther Steiner",
+      "image_url": "URL_placeholder",
+      "news" : {
+        "title" : "Haas News",
+        "content" : "Haas F1 Team is a Formula One racing team based in Kannapolis, North Carolina, United States. The team was formed in 2016 and has been managed by Guenther Steiner since its formation. The team has used Ferrari engines since 2016, and has a contract to do so until 2025.",
+        "timestamp" : "2022-03-01T00:00:00Z"
+      }
+    },
+    {
+      "name": "Williams",
+      "base": "Grove, United Kingdom",
+      "team_principal": "James Vowles",
+      "image_url": "https://media.formula1.com/content/dam/fom-website/teams/2024/williams-logo.png.transform/2col/image.png",
+      "news" : {
+        "title" : "Williams News",
+        "content" : "Williams Racing is a Formula One racing team based in Grove, Oxfordshire, England. The team was formed in 1977 and has been managed by James Vowles since its formation. The team has used Mercedes engines since 2014, and has a contract to do so until 2025.",
+        "timestamp" : "2022-03-01T00:00:00Z"
+      }
+    },
+    {
+      "name": "AlphaTauri",
+      "base": "Faenza, Italy",
+      "team_principal": "Franz Tost",
+      "image_url": "https://media.formula1.com/content/dam/fom-website/teams/2024/rb-logo.png.transform/2col/image.png",
+      "news" : {
+        "title" : "AlphaTauri News",
+        "content" : "Scuderia AlphaTauri is a Formula One racing team based in Faenza, Italy. The team was formed in 2006 and has been managed by Franz Tost since its formation. The team has used Honda engines since 2018, and has a contract to do so until 2025.",
+        "timestamp" : "2022-03-01T00:00:00Z"
+      }
+    }
+  ],
+  "Drivers": [
+    {
+      "name": "Max Verstappen",
+      "team_id": "Red Bull Racing",
+      "bio": "Dutch driver, multiple world champion, known for aggressive driving and strategic prowess.",
+      "image_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png",
+      "news" : {
+        "title" : "Max Verstappen News",
+        "content" : "Max Emilian Verstappen is a Belgian-Dutch racing driver who competes under the Dutch flag in Formula One, driving for Red Bull Racing. Aged 17 years, 166 days, he became the youngest driver to compete in Formula 1 at the 2015 Australian Grand Prix for Scuderia Toro Rosso. After spending the 2016 season with Toro Rosso, he started his 2017 campaign with Red Bull Racing. He won the 2016 Spanish Grand Prix in his",
+        "timestamp" : "2022-03-01T00:00:00Z"
+      }
+    },
+    {
+      "name": "Sergio Perez",
+      "team_id": "Red Bull Racing",
+      "bio": "Mexican driver, known for excellent tire management and consistent podium finishes.",
+      "image_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/S/SERPER01_Sergio_Perez/serper01.png",
+      "news" : {
+        "title" : "Sergio Perez News",
+        "content" : "Sergio Perez Mendoza, also known as Checo Perez, is a Mexican racing driver who competes in Formula One for Red Bull Racing. He made his Formula One debut in 2011, driving for Sauber. He secured his first podium in Formula One at the 2012 Malaysian Grand Prix, and took his first victory at the 2020 Sakhir Grand Prix, both for Racing Point. Perez has been a regular podium finisher since joining Red Bull Racing in 2021.",
+        "timestamp" : "2022-03-01T00:00:00Z"
+      }
+    },
+    {
+      "name": "Charles Leclerc",
+      "team_id": "Ferrari",
+      "bio": "Monégasque driver, known for fast qualifying laps and aggressive race tactics.",
+      "image_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/C/CHALEC01_Charles_Leclerc/chalec01.png",
+      "news" : {
+        "title" : "Charles Leclerc News",
+        "content" : "Charles Leclerc is a Monégasque racing driver who competes in Formula One for Scuderia Ferrari. Leclerc won the GP3 Series championship in 2016 and the FIA Formula 2 Championship in 2017. He made his Formula One debut in 2018 for Sauber, a team affiliated with Ferrari, for which he was part of the Ferrari Driver Academy. Leclerc joined Ferrari as a full-time driver in 2019, and has since become one of the most promising talents in the sport.",
+        "timestamp" : "2022-03-01T00:00:00Z"
+      }
+    },
+    {
+      "name": "Carlos Sainz",
+      "team_id": "Ferrari",
+      "bio": "Spanish driver, known for his adaptive driving style and solid race performance.",
+      "image_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/C/CARSAI01_Carlos_Sainz/carsai01.png",
+      "news" : {
+        "title" : "Carlos Sainz News",
+        "content" : "Carlos Sainz Vázquez de Castro, known as Carlos Sainz Jr. or simply Carlos Sainz, is a Spanish racing driver who competes in Formula One for Scuderia Ferrari. He is the son of two-time World Rally Champion Carlos Sainz. Sainz made his Formula One debut in 2015 for Scuderia Toro Rosso, and has since driven for Renault, McLaren, and Ferrari. He joined Ferrari in 2021, and has been a consistent points scorer for the team.",
+        "timestamp" : "2022-03-01T00:00:00Z"
+      }
+    },
+    {
+      "name": "Lewis Hamilton",
+      "team_id": "Mercedes",
+      "bio": "British driver, seven-time world champion, known for his exceptional skills and racecraft.",
+      "image_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LEWHAM01_Lewis_Hamilton/lewham01.png",
+      "news" : {
+        "title" : "Lewis Hamilton News",
+        "content" : "Lewis Carl Davidson Hamilton is a British racing driver who competes in Formula One for Mercedes-AMG Petronas Formula One Team. A seven-time World Champion, he is widely regarded as one of the greatest drivers in the history of the sport. Hamilton won his first World Championship with McLaren in 2008, and has since won six more titles with Mercedes. He holds the records for the most wins, pole positions, and podium finishes in Formula One history.",
+        "timestamp" : "2022-03-01T00:00:00Z"
+      }
+    },
+    {
+      "name": "George Russell",
+      "team_id": "Mercedes",
+      "bio": "British driver, known for quick adaption to F1 and strong performances.",
+      "image_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/G/GEORUS01_George_Russell/georus01.png",
+      "news" : {
+        "title" : "George Russell News",
+        "content" : "George Russell is a British racing driver who competes in Formula One for Mercedes-AMG Petronas Formula One Team. He made his Formula One debut in 2019 for Williams Racing, and joined Mercedes as a full-time driver in 2022. Russell is a member of the Mercedes Junior Driver Programme, and has shown strong performances in his early career.",
+        "timestamp" : "2022-03-01T00:00:00Z"
+      }
+    },
+    {
+      "name": "Lando Norris",
+      "team_id": "McLaren",
+      "bio": "British driver, known for his quick reflexes and playful personality.",
+      "image_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LANNOR01_Lando_Norris/lannor01.png",
+      "news" : {
+        "title" : "Lando Norris News",
+        "content" : "Lando Norris is a British racing driver who competes in Formula One for McLaren. He made his Formula One debut in 2019, and has since become one of the most promising talents in the sport. Norris is known for his quick reflexes, strong racecraft, and playful personality, which has made him a fan favorite among Formula One fans.",
+        "timestamp" : "2022-03-01T00:00:00Z"
+      }
+    },
+    {
+      "name": "Oscar Piastri",
+      "team_id": "McLaren",
+      "bio": "Australian driver, former F2 champion, known for his precision and consistency.",
+      "image_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/O/OSCPIA01_Oscar_Piastri/oscpia01.png",
+      "news" : {
+        "title" : "Oscar Piastri News",
+        "content" : "Oscar Piastri is an Australian racing driver who competes in Formula One for McLaren. He won the FIA Formula 2 Championship in 2021, and has since joined McLaren as a full-time driver. Piastri is known for his precision, consistency, and strong performances in his early career.",
+        "timestamp" : "2022-03-01T00:00:00Z"
+      }
+    },
+    {
+      "name": "Esteban Ocon",
+      "team_id": "Alpine",
+      "bio": "French driver, known for his resilience and competitive edge in midfield battles.",
+      "image_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/E/ESTOCO01_Esteban_Ocon/estoco01.png",
+      "news" : {
+        "title" : "Esteban Ocon News",
+        "content" : "Esteban Ocon is a French racing driver who competes in Formula One for Alpine F1 Team. He made his Formula One debut in 2016 for Manor Racing, and has since driven for Force India, Racing Point, and Renault. Ocon joined Alpine in 2020, and has shown strong performances in his time with the team. He is known for his resilience, competitive edge, and strong racecraft.", 
+        "timestamp" : "2022-03-01T00:00:00Z"
+      }
+    },
+    {
+      "name": "Pierre Gasly",
+      "team_id": "Alpine",
+      "bio": "French driver, known for his quick pace and ability to score in challenging conditions.",
+      "image_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/P/PIEGAS01_Pierre_Gasly/piegas01.png",
+      "news" : {
+        "title" : "Pierre Gasly News",
+        "content" : "Pierre Gasly is a French racing driver who competes in Formula One for Alpine F1 Team. He made his Formula One debut in 2017 for Scuderia Toro Rosso, and has since driven for Red Bull Racing and AlphaTauri. Gasly joined Alpine in 2020, and has shown strong performances in his time with the team. He is known for his quick pace, ability to score in challenging conditions, and strong racecraft.",
+        "timestamp" : "2022-03-01T00:00:00Z"
+      }
+    },
+    {
+      "name": "Valtteri Bottas",
+      "team_id": "Alfa Romeo",
+      "bio": "Finnish driver, known for his speed in qualifying and race consistency.",
+      "image_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/V/VALBOT01_Valtteri_Bottas/valbot01.png",
+      "news" : {
+        "title" : "Valtteri Bottas News",
+        "content" : "Valtteri Viktor Bottas is a Finnish racing driver who competes in Formula One for Alfa Romeo Racing ORLEN. He made his Formula One debut in 2013 for Williams, and has since driven for Mercedes and Alfa Romeo. Bottas joined Alfa Romeo in 2022, and has shown strong performances in his time with the team. He is known for his speed in qualifying  ",
+        "timestamp" : "2022-03-01T00:00:00Z"
+      }
+    },
+    {
+      "name": "Zhou Guanyu",
+      "team_id": "Alfa Romeo",
+      "bio": "Chinese driver, known for making history as the first Chinese driver in F1.",
+      "image_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/G/GUAZHO01_Guanyu_Zhou/guazho01.png",
+      "news" : {
+        "title" : "Zhou Guanyu News",
+        "content" : "Zhou Guanyu is a Chinese racing driver who competes in Formula One for Alfa Romeo Racing ORLEN. He made his Formula One debut in 2022, becoming the first Chinese driver to compete in the sport. Zhou is a member of the Alpine Driver Academy, and has shown strong performances in his early career. He is known for making history as the first Chinese driver in Formula One.",
+        "timestamp" : "2022-03-01T00:00:00Z"
+      }
+    },
+    {
+      "name": "Lance Stroll",
+      "team_id": "Aston Martin",
+      "bio": "Canadian driver, known for his wet-weather skills and quick starts.",
+      "image_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LANSTR01_Lance_Stroll/lanstr01.png",
+      "news" : {
+        "title" : "Lance Stroll News",
+        "content" : "Lance Stroll is a Canadian racing driver who competes in Formula One for Aston Martin Cognizant Formula One Team. He made his Formula One debut in 2017 for Williams, and has since driven for Racing Point and Aston Martin. Stroll joined Aston Martin in 2020, and has shown strong performances in his time with the team. He is known for his wet-weather skills, quick starts, and strong racecraft.",
+        "timestamp" : "2022-03-01T00:00:00Z"
+      }
+    },
+    {
+      "name": "Fernando Alonso",
+      "team_id": "Aston Martin",
+      "bio": "Spanish driver, two-time world champion, known for his strategic mind and driving skill.",
+      "image_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/F/FERALO01_Fernando_Alonso/feralo01.png",
+      "news" : {
+        "title" : "Fernando Alonso News",
+        "content" : "Fernando Alonso Díaz is a Spanish racing driver who competes in Formula One for Aston Martin Cognizant Formula One Team. A two-time World Champion, he is widely regarded as one of the greatest drivers in the history of the sport. Alonso won his first World Championship with Renault in 2005, and his second in 2006. He has since driven for McLaren and Alpine, and returned to Formula One with Aston Martin in 2021.",
+        "timestamp" : "2022-03-01T00:00:00Z"
+      }
+    },
+    {
+      "name": "Kevin Magnussen",
+      "team_id": "Haas",
+      "bio": "Danish driver, known for his aggressive driving style and strong comebacks.",
+      "image_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/K/KEVMAG01_Kevin_Magnussen/kevmag01.png",
+      "news" : {
+        "title" : "Kevin Magnussen News",
+        "content" : "Kevin Magnussen is a Danish racing driver who competes in Formula One for Haas F1 Team. He made his Formula One debut in 2014 for McLaren, and has since driven for Renault and Haas. Magnussen joined Haas in 2017, and has shown strong performances in his time with the team. He is known for his aggressive driving style, strong comebacks, and competitive spirit.",
+        "timestamp" : "2022-03-01T00:00:00Z"
+      }
+    },
+    {
+      "name": "Nico Hülkenberg",
+      "team_id": "Haas",
+      "bio": "German driver, known for his reliability and experience in Formula 1.",
+      "image_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/N/NICHUL01_Nico_Hulkenberg/nichul01.png",
+      "news" : {
+        "title" : "Nico Hülkenberg News",
+        "content" : "Nico Hülkenberg is a German racing driver who competes in Formula One for Haas F1 Team. He made his Formula One debut in 2010 for Williams, and has since driven for Force India, Sauber, Renault, and Racing Point. Hülkenberg joined Haas in 2020, and has shown strong performances in his time with the team. He is known for his reliability, experience in Formula One, and strong racecraft.",
+        "timestamp" : "2022-03-01T00:00:00Z"
+      }
+    },
+    {
+      "name": "Logan Sargeant",
+      "team_id": "Williams",
+      "bio": "American driver, known for his rapid ascent from F2 to F1 and strong racing potential.",
+      "image_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LOGSAR01_Logan_Sargeant/logsar01.png",
+      "news" : {
+        "title" : "Logan Sargeant News",
+        "content" : "Logan Sargeant is an American racing driver who competes in Formula One for Williams Racing. He made his Formula One debut in 2022, after a rapid ascent from Formula 2 to Formula One. Sargeant is known for his strong racing potential, quick adaptation to new challenges, and competitive spirit.",
+        "timestamp" : "2022-03-01T00:00:00Z"
+      }
+    },
+    {
+      "name": "Alexander Albon",
+      "team_id": "Williams",
+      "bio": "Thai driver, known for his comeback to F1 and versatility under pressure.",
+      "image_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/A/ALEALB01_Alexander_Albon/alealb01.png",
+      "news" : {
+        "title" : "Alexander Albon News",
+        "content" : "Alexander Albon Ansusinha is a Thai racing driver who competes in Formula One for Williams Racing. He made his Formula One debut in 2019 for Scuderia Toro Rosso, and has since driven for Red Bull Racing and Williams. Albon joined Williams in 2022, and has shown strong performances in his time with the team. He is known for his comeback to Formula One, versatility under pressure, and strong racecraft.",
+        "timestamp" : "2022-03-01T00:00:00Z"
+      }
+    },
+    {
+      "name": "Yuki Tsunoda",
+      "team_id": "AlphaTauri",
+      "bio": "Japanese driver, known for his aggressive style and quick adaptation to F1 circuits.",
+      "image_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/Y/YUKTSU01_Yuki_Tsunoda/yuktsu01.png",
+      "news" : {
+        "title" : "Yuki Tsunoda News",
+        "content" : "Yuki Tsunoda is a Japanese racing driver who competes in Formula One for Scuderia AlphaTauri. He made his Formula One debut in 2021 for AlphaTauri, and has since shown strong performances in his time with the team. Tsunoda is known for his aggressive driving style, quick adaptation to Formula One circuits, and competitive spirit.",
+        "timestamp" : "2022-03-01T00:00:00Z"
+      }
+    },
+    {
+      "name": "Daniel Ricciardo",
+      "team_id": "AlphaTauri",
+      "bio": "The self-styled “Honey Badger” is fuzzy on the outside and feisty on the inside. Drivers beware because behind Ricciardo’s laidback persona and big grin is a razor-sharp racer with a bite.",
+      "image_url": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/D/DANRIC01_Daniel_Ricciardo/danric01.png",
+      "news" : {
+        "title" : "Daniel Ricciardo News",
+        "content" : "Daniel Ricciardo is an Australian racing driver who competes in Formula One for Scuderia AlphaTauri. He made his Formula One debut in 2011 for HRT, and has since driven for Toro Rosso, Red Bull Racing, Renault, and McLaren. Ricciardo joined AlphaTauri in 2021, and has shown strong performances in his time with the team. He is known for his aggressive driving style, quick adaptation to Formula One circuits, and competitive spirit.",
+        "timestamp" : "2022-03-01T00:00:00Z"
+      }
+    }
+  ],
+  "Users": [
+    {
+      "email": "mangakorian@gmail.com",
+      "followedTeams": ["Red Bull Racing", "Ferrari"],
+      "followedDrivers": ["Max Verstappen", "Charles Leclerc"]
+    }
+  ]
+}

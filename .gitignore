@@ -1,0 +1,74 @@
+# General
+.DS_Store
+.idea/
+*.iml
+*.log
+.local.properties
+
+# Flutter/Dart specific
+**/android/.gradle
+**/android/.idea
+**/.pub-cache
+**/.pub/
+build/
+**/ios/.symlinks/
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/App.framework
+**/ios/Flutter/FlutterPluginRegistrant/
+**/ios/Pods/
+**/ios/Runner.xcworkspace/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/ios/Flutter/engine/
+**/ios/Flutter/GeneratedPluginRegistrant/
+packages.lock
+
+# VS Code related
+.vscode/
+
+# Xcode related
+**/ios/*.generated.xcconfig
+**/ios/*.xcworkspace
+**/ios/*.xcuserstate
+
+# Android related
+**/android/app/google-services.json
+**/android/app/src/main/res/raw/google-services.json
+**/android/keystore.properties
+**/android/key.properties
+**/android/app/debug.keystore
+**/android/app/upload.keystore
+
+# Firebase related
+**/android/app/google-services.json
+**/ios/GoogleService-Info.plist
+**/google-services-desktop.json
+**/lib/firebase_option.dart
+
+# Web related
+**/web/ServiceWorker.js
+**/web/icons/Icon-*
+**/web/favicon.png
+**/web/manifest.json
+
+# macOS related
+**/macos/Pods/
+**/macos/Flutter/ephemeral/
+**/macos/Flutter/Flutter-Generated.xcconfig
+
+# Coverage reports
+coverage/
+
+# Secrets
+.secret
+*.jks
+*.keystore
+
+# Custom Key Files
+my-release-key.keystore
+my-upload-key.keystore
+
+# Ignore pubspec lock files (uncomment if needed)
+# pubspec.lock

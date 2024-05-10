@@ -1,0 +1,28 @@
+Teams Collection
+Teams:
+teamId: Document ID
+name: String
+story: String
+image_url: String
+drivers: Array of driver IDs (since a team has exactly two drivers)
+Drivers Collection
+Drivers:
+driverId: Document ID
+name: String
+bio: String
+image_url: String
+teamId: String (reference to their team)
+News Collection
+News (assuming global news that can be tagged to teams or drivers):
+newsId: Document ID
+title: String
+content: String
+timestamp: Timestamp
+relatedTeams: Array of team IDs
+relatedDrivers: Array of driver IDs
+Users Collection
+Users:
+userId: Document ID
+email: String
+followedTeams: Array of team IDs
+followedDrivers: Array of driver IDs

@@ -1,0 +1,43 @@
+{
+  "Users": [
+    {
+      "userId": "user1",
+      "username": "example_user",
+      "email": "user@example.com",
+      "followedTeams": ["team1", "team2"],
+      "followedDrivers": ["driver1", "driver2"]
+    }
+  ],
+  "Teams": [
+    {
+      "teamId": "team1",
+      "name": "Example Team 1",
+      "logoUrl": "https://example.com/logo1.png",
+      "description": "Description of Example Team 1",
+      "foundedYear": 2000
+    },
+    {
+      "teamId": "team2",
+      "name": "Example Team 2",
+      "logoUrl": "https://example.com/logo2.png",
+      "description": "Description of Example Team 2",
+      "foundedYear": 2010
+    }
+  ],
+  "Drivers": [
+    {
+      "driverId": "driver1",
+      "name": "John Doe",
+      "imageUrl": "https://example.com/driver1.png",
+      "biography": "Biography of John Doe",
+      "teamId": "team1"
+    },
+    {
+      "driverId": "driver2",
+      "name": "Jane Smith",
+      "imageUrl": "https://example.com/driver2.png",
+      "biography": "Biography of Jane Smith",
+      "teamId": "team2"
+    }
+  ]
+}
